@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-115762114-2"
 
 
 # Site Author
@@ -83,7 +83,7 @@ author:
   name             : "Cristiano Politowski"
   avatar           : "profile.jpg"
   bio              : "Ph.D. Student at Concordia University"
-  location         : "Montreal, Quebec, Canada"
+  location         : "Montreal, Canada"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.ca/citations?user=B8qnQe0AAAAJ&hl=en"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/cristiano-politowski"
+  orcid            : "https://orcid.org/0000-0002-0206-1056"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Po74ko"
   vine             :
   weibo            :
   xing             :
