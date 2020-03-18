@@ -2,7 +2,7 @@
 title: "Are the old days gone? A survey on actual software engineering processes in video game industry"
 collection: publications
 permalink: /publication/2016-05-14-are-the-old-days-gone
-excerpt: 'In the past 10 years, several researches studied video game development process who proposed approaches to improve the way how games are developed. These approaches usually adopt agile methodologies because of claims that traditional practices and the waterfall process are gone. However, are the "old days" really gone in the game industry?'
+excerpt: 
 date: 2016-05-14
 venue: 'Proceedings of the 5th International Workshop on Games and Software Engineering'
 paperurl: 'https://cpoli.live/files/Are_the_Old_Days_Gone.pdf'
