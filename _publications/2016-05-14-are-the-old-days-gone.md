@@ -2,11 +2,10 @@
 title: "Are the old days gone? A survey on actual software engineering processes in video game industry"
 collection: publications
 permalink: /publication/2016-05-14-are-the-old-days-gone
-excerpt: 'In the past 10 years, several researches studied video game development process who proposed approaches to improve the way how games are developed. These approaches usually adopt agile methodologies because of claims that traditional practices and the waterfall process are gone. However, are the" old days" really gone in the game industry?'
-date: 2009-05-14
+excerpt: 'In the past 10 years, several researches studied video game development process who proposed approaches to improve the way how games are developed. These approaches usually adopt agile methodologies because of claims that traditional practices and the waterfall process are gone. However, are the "old days" really gone in the game industry?'
+date: 2016-05-14
 venue: 'Proceedings of the 5th International Workshop on Games and Software Engineering'
-paperurl: 'http://academicpages.github.io/files/Are_the_Old_Days_Gone.pdf'
-citation: ''
+paperurl: 'https://cpoli.live/files/Are_the_Old_Days_Gone.pdf'
 ---
 
 In the past 10 years, several researches studied video game development process who proposed approaches to improve the way how games are developed. These approaches usually adopt agile methodologies because of claims that traditional practices and the waterfall process are gone. However, are the “old days” really gone in the game industry?
@@ -15,10 +14,10 @@ In this paper, we present a survey of software engineering processes in video ga
 
 This work presents three main contributions. First, a postmortem analysis methodology to identify and extract project processes. Second, the study main result: the “old days” are gone, but not completely. Iterative practices are increasing and are applied to at least 65% of projects in which 45% of this projects explicitly adopted Agile practices. However, waterfall process is still applied at least 30% of projects. Finally, we discuss some implications, directions and opportunities for video game development community.
 
-[Download paper here](http://academicpages.github.io/files/Are_the_Old_Days_Gone.pdf)
+[Download paper here](https://cpoli.live/files/Are_the_Old_Days_Gone.pdf)
 
 ```
-@inproceedings{10.1145/2896958.2896960,
+@inproceedings{Politowski2016,
     author = {Politowski, Cristiano and Fontoura, Lisandra and Petrillo, Fabio and Gu\'{e}h\'{e}neuc, Yann-Ga\"{e}l},
     title = {Are the Old Days Gone? A Survey on Actual Software Engineering Processes in Video Game Industry},
     year = {2016},
