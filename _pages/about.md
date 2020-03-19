@@ -10,6 +10,6 @@ redirect_from:
 
 Hi! This is my personal page.
 
-![](images/presentation-cser18.jpeg)
+<!-- ![](images/presentation-cser18.jpeg)
 
-![](images/presentation-masters.jpeg)
+![](images/presentation-masters.jpeg) -->

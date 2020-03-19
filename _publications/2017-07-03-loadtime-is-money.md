@@ -29,4 +29,4 @@ Performance of web applications is an under-explored topic by developers and aca
 
 ```
 
-![](images/presentation-wperformance.jpeg)
+<!-- ![](images/presentation-wperformance.jpeg) -->
