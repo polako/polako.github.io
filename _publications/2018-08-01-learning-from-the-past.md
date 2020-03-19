@@ -32,4 +32,7 @@ Contributions: This article brings three main contributions. The first describes
 }
 ```
 
+![](presentation-esem18.jpeg)
+
+
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->

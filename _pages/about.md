@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-TODO
+Hi! This is my personal page.
+
+![](presentation-cser18.jpeg)
+
+![](presentation-masters.jpeg)
