@@ -3,7 +3,7 @@ title: "Dataset of Video Game Development Problems"
 collection: publications
 permalink: publications/2020-01-02-database-of-videogame
 excerpt:
-date: 2020-10-5
+date: 2020-10-05
 venue: '17th International Conference on Mining Software Repositories (MSR '20), October 5--6, 2020, Seoul, Republic of Korea'
 paperurl: 'https://cpoli.live/files/Dataset_of_Video_Game.pdf'
 ---
