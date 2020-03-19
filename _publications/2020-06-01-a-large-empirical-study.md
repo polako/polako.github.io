@@ -2,7 +2,7 @@
 title: "A large scale empirical study of the impact of Spaghetti Code and Blob anti-patterns on program comprehension"
 collection: publications
 permalink: publications/2020-06-01-a-large-empirical-study
-excerpt:
+excerpt: 
 date: 2020-06-01
 venue: 'Information and Software Technology -- Elsevier'
 paperurl: 'https://cpoli.live/files/A_Large_Scale_Study.pdf'
